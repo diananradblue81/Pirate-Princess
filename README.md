@@ -206,4 +206,4 @@ Pirate Princess is a full free version that includes all features and updates wi
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-07 21:16:58 UTC
+**Last updated:** 2026-11-08 00:59:00 UTC
